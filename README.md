@@ -1,5 +1,3 @@
-# just-have-fun
+# Python-MySQL 爬虫
 
-爬虫相关
-
-淘宝商品标题的抓取
+抓取淘宝商品标题，并将数据存入Mysql数据库

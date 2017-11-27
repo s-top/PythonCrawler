@@ -6,7 +6,7 @@ python 2.x + mysql
 
 代码中以关键字"短裙"为例，抓取商品图片、商品名称、淘宝店铺名称、商品价格、运费、商品付款人数、商品评论数(会存在为空值的情况)以及店铺所在城市。
 
-![image](http://github.com/s-top/PythonCrawler/image/1.png)
+![image](http://github.com/s-top/PythonCrawler/raw/master/image/1.png)
 
 网站地址分为两种，每页有44件商品，总共100页：
 
@@ -16,11 +16,11 @@ python 2.x + mysql
 
 找到网页中的数据，获取商品详细内容即可：
 
-![image](http://github.com/s-top/PythonCrawler/image/2.png)
+![image](http://github.com/s-top/PythonCrawler/raw/master/image/2.png)
 
 无聊写着玩。。。
 
-个人博客，记录学习、记录生活：
+>个人博客，记录学习、记录生活：
 
-https://s-top.github.io
+>https://s-top.github.io
 

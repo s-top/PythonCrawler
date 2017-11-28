@@ -43,5 +43,5 @@ for index in range(data):
             text = text + word.word + " "
    sql = "insert into split_words(id,name,split) values('%d','%s','%s')" %(id, name, text)
    data_Import(sql)
-print("爬取完成，且数据已存入数据库")
+print("分词完成，且数据已存入数据库")
 
